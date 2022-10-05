@@ -29,7 +29,7 @@ header{
 }
 
 .logo{
-    background: url(/img/img2.png);
+    background: url(../img/img2.png);
     width: 150px;
     height: 115px;
     background-position: center;
